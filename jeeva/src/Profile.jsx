@@ -9,8 +9,10 @@ function Profile(props) {
                 alt={'Photo of ' + props.user.name}
                 style={{
                     width: props.user.imageSize,
-                    height: props.user.imageSize
+                    height: props.user.imageSize,
+                    borderRadius:50,
                 }}
+
             />
         </>
     );

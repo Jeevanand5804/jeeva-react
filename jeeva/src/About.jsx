@@ -1,18 +1,13 @@
 import React from "react";
+import styles from "./About.module.css";
 
-function About(props) {
-    return (
-        <>
-            <div style={{margin:40}}>
-            <hr></hr>
-                <h3 style={{ color:"blue" }}>From About:</h3>
-            <p>Name: {props.Name}</p>
-            <p>Id: {props.Id}</p>
-            <p>Age: {props.age}</p>
-            <p>gender: {props.gender}</p>
-            <p>location: {props.location}</p>
-            </div>
-        </>
-    )
+function About() {
+  return (
+      <div>
+          <h1 className={styles.h1}>About Component</h1>
+          <h1 className="h1">About Component2</h1>
+    </div>
+  )
 }
+
 export default About

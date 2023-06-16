@@ -1,0 +1,13 @@
+.Bodycontent{
+    background-image: url(Landscape-Color.jpg);
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    color: rgb(4, 5, 70); 
+    font-weight: 800;
+    /* background-color: rgba(255, 255, 255, 0.2); */
+}
