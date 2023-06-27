@@ -1,7 +1,5 @@
 import React, { useState, useEffect } from "react";
 import "bootstrap/dist/css/bootstrap.css";
-// import { BiLoaderAlt } from "react-icons/bi";
-// import Loader from "react-loader-spinner";
 
 function GetPost() {
   const [id, setId] = useState(1);

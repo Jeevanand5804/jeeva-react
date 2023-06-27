@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Aakash",
+      "dept": "B.sc CS"
+    },
+    {
+      "id": 2,
+      "name": "Aravinth",
+      "dept": "B.com BA"
+    },
+    {
+      "id": 3,
+      "name": "Babu",
+      "dept": "B.sc CS"
+    },
+    {
+      "name": "jeeva",
+      "dept": "B.sc CS",
+      "id": 4
+    },
+    {
+      "name": "Dharaniya",
+      "dept": "Web Developer",
+      "id": 5
+    },
+    {
+      "name": "Logu",
+      "dept": "MCA",
+      "id": 6
+    }
+  ]
+}
