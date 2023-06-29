@@ -7,20 +7,20 @@ import LocalPathImg from "./LocalPathImg";
 import MuiDrawer from "./MuiDrawer";
 import DrawerMui from "./DrawerMui";
 import GetPost from "./GetPost";
-import ReactQuery from "./ReactQuery";
+// import ReactQuery from "./ReactQuery";
 
 
 function App() {
   return (
     <>
       {/* <StudentCourse /> */}
-      {/* <StepperMui /> */}
+      <StepperMui />
       {/* <MultiStepper /> */}
       {/* <LocalPathImg /> */}
       {/* <MuiDrawer /> */}
       {/* <DrawerMui /> */}
       {/* <GetPost /> */}
-      <ReactQuery/>
+      {/* <ReactQuery/> */}
     </>
   );
 }
